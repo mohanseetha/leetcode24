@@ -1,3 +1,5 @@
+# Problem: 1945. Sum of Digits of String After Convert
+
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
         num = 0
